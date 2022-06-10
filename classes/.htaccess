@@ -1,0 +1,10 @@
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+<FilesMatch "\.(php)$">
+Order allow,deny
+Deny from all
+
+</FilesMatch>

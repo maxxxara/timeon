@@ -1,0 +1,71 @@
+[27-Mar-2022 21:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dimage/test.dima.ge/index.php on line 60
+[27-Mar-2022 21:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dimage/test.dima.ge/index.php on line 60
+[27-Mar-2022 21:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dimage/test.dima.ge/index.php on line 141
+[27-Mar-2022 21:35:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/dimage/test.dima.ge/index.php on line 141
+[27-Mar-2022 21:35:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dimage/test.dima.ge/index.php on line 147
+[28-Mar-2022 16:02:02 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/buytechg/public_html/classes/db_connect_class.php:12
+Stack trace:
+#0 /home/buytechg/public_html/classes/product_db_class.php(7): Db_connect->__construct()
+#1 /home/buytechg/public_html/home.php(5): Product_db->__construct()
+#2 {main}
+  thrown in /home/buytechg/public_html/classes/db_connect_class.php on line 12
+[28-Mar-2022 16:02:03 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/buytechg/public_html/classes/db_connect_class.php:12
+Stack trace:
+#0 /home/buytechg/public_html/classes/product_db_class.php(7): Db_connect->__construct()
+#1 /home/buytechg/public_html/home.php(5): Product_db->__construct()
+#2 {main}
+  thrown in /home/buytechg/public_html/classes/db_connect_class.php on line 12
+[28-Mar-2022 16:02:05 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/buytechg/public_html/classes/db_connect_class.php:12
+Stack trace:
+#0 /home/buytechg/public_html/classes/product_db_class.php(7): Db_connect->__construct()
+#1 /home/buytechg/public_html/index.php(9): Product_db->__construct()
+#2 {main}
+  thrown in /home/buytechg/public_html/classes/db_connect_class.php on line 12
+[28-Mar-2022 16:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "mysqli" not found in /home/buytechg/public_html/classes/db_connect_class.php:12
+Stack trace:
+#0 /home/buytechg/public_html/classes/product_db_class.php(7): Db_connect->__construct()
+#1 /home/buytechg/public_html/home.php(5): Product_db->__construct()
+#2 {main}
+  thrown in /home/buytechg/public_html/classes/db_connect_class.php on line 12
+[30-Mar-2022 19:06:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[30-Mar-2022 19:06:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[30-Mar-2022 19:06:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[30-Mar-2022 19:06:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[30-Mar-2022 19:07:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[30-Mar-2022 19:07:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/buytechg/public_html/index.php on line 314
+[05-Apr-2022 01:35:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[05-Apr-2022 01:36:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[05-Apr-2022 04:38:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[05-Apr-2022 05:17:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[08-Apr-2022 04:22:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 03:37:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 06:31:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 08:03:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 10:33:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 10:34:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 13:20:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 13:21:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 15:03:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:04:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:05:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:05:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 16:36:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/buytechg/public_html/classes/db_connect_class.php on line 13
+[09-Apr-2022 18:21:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/buytechg/public_html/classes/db_connect_class.php on line 13
